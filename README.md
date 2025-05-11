@@ -1,10 +1,10 @@
 Smart-Healthcare Web App- Frontend
 -------------------------------------------------------------------------------------------------------------------------------------------
-Frontend for the ## Smart Healthcare Web App ## — a full-stack (React + Node) platform that helps users manage health through food tracking, BMR calculation, and symptom analysis. Built with React and styled using Bootstrap.
+Frontend for the Smart Healthcare Web App — a full-stack (React + Node) platform that helps users manage health through food tracking, BMR calculation, and symptom analysis. Built with React and styled using Bootstrap.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Backend Repo : https://github.com/cvenkataravikiran/Smart-Healthcare-WebApp-Frontend.git
+Backend Repo : https://github.com/cvenkataravikiran/Smart-Healthcare-WebApp-Backend.git
 -------------------------------------------------------------------------------------------------------------------------------------------
 Features 
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,5 +37,6 @@ Features
  In the project directory, you can run:
 
     npm install
-Runs the app in the development mode.
+    
+Runs the app in the development mode.\\
 Open http://localhost:3000 to view it in your browser.
