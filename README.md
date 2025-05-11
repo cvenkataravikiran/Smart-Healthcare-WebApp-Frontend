@@ -29,7 +29,7 @@ Features
 
 ## 1. Clone the repo
     
-     git clone https://github.com/cvenkataravikiran/Smart-Healthcare-WebApp-Backend.git 
+     https://github.com/cvenkataravikiran/Smart-Healthcare-WebApp-Frontend.git 
      cd Smart-Healthcare-WebApp-Backend
 
 ## 2. Install and start 
@@ -37,16 +37,5 @@ Features
  In the project directory, you can run:
 
     npm install
-   
-   
-## 3. Set up environment variables
-   
-    PORT=5000
-    JWT_SECRET=your_secret_key
-    USDA_API_KEY=your_usda_api_key
-   
-## 4. Start the server
-   
-     node server.js
-   
-   
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
